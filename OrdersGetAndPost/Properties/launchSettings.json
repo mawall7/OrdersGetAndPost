@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OrdersGetAndPost": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7071"
+    }
+  }
+}
